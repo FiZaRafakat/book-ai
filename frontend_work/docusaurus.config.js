@@ -20,14 +20,14 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-organization.github.io',
+  url: 'https://book-ai-roan.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/book-ai/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-organization', // Usually your GitHub org/user name.
+  organizationName: 'FiZaRafakat', // Usually your GitHub org/user name.
   projectName: 'book-ai', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -96,7 +96,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/your-organization/book-ai',
+            href: 'https://github.com/FiZaRafakat/book-ai',
             label: 'GitHub',
             position: 'right',
           },
@@ -136,7 +136,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/your-organization/book-ai',
+                href: 'https://github.com/FiZaRafakat/book-ai',
               },
             ],
           },

@@ -1,0 +1,7 @@
+frontend_work/node_modules/
+frontend_work/.docusaurus/
+.env
+.next
+dist
+build
+
