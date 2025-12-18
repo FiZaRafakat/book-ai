@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ROS 2 Robotics Module',
-  tagline: 'Teaching ROS 2 as the middleware connecting AI logic to humanoid robot control',
+  title: 'AI Robotics Learning Platform',
+  tagline: 'Comprehensive educational modules for AI-integrated robotics systems',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -83,9 +83,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'ROS 2 Robotics Module',
+        title: 'AI Robotics Platform',
         logo: {
-          alt: 'ROS 2 Robotics Logo',
+          alt: 'AI Robotics Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -141,7 +141,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ROS 2 Robotics Module. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} AI Robotics Learning Platform. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
