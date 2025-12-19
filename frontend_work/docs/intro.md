@@ -29,6 +29,13 @@ Learn advanced perception, navigation, and training techniques for humanoid robo
 - Isaac ROS and hardware-accelerated Visual SLAM
 - Path planning with Navigation2 (Nav2) for bipedal humanoid navigation
 
+### Vision-Language-Action (VLA) Robotics
+Discover how Large Language Models integrate with robotics to convert human intent into autonomous robot actions. This module covers:
+
+- Voice-to-action pipelines using speech recognition and ROS 2 integration
+- Cognitive planning with LLMs for task decomposition and action sequencing
+- Complete autonomous humanoid systems integrating navigation, perception, and manipulation
+
 ## Getting Started
 
 Choose a module from the sidebar to begin your robotics education journey. Each module is designed to build your understanding progressively, starting with fundamental concepts and advancing to complex implementations.

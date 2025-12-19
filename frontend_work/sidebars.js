@@ -47,6 +47,16 @@ const sidebars = {
         'isaac-ai-brain/summary-and-next-steps',
       ],
     },
+    {
+      type: 'category',
+      label: 'Vision-Language-Action (VLA) Robotics',
+      items: [
+        'vla-integration/chapter-1-voice-to-action',
+        'vla-integration/chapter-2-cognitive-planning',
+        'vla-integration/chapter-3-autonomous-humanoid',
+        'vla-integration/summary-and-next-steps',
+      ],
+    },
   ],
 };
 
