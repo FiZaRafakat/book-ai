@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\Users\\dell\\Documents\\GitHub\\book-ai\\specs\\003-isaac-ai-brain\\checklists\" /B)"
+    ]
+  }
+}

@@ -2,15 +2,43 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# AI Robotics Learning Modules
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the **AI Robotics Learning Platform** - a comprehensive educational resource for understanding robotics concepts with a focus on AI integration. This platform contains multiple modules designed to teach robotics from the ground up, with special emphasis on connecting AI logic to physical robot control.
+
+## Available Modules
+
+### ROS 2 Robotics Module
+Learn the fundamentals of ROS 2 (Robot Operating System 2) and how it serves as middleware connecting AI systems to humanoid robot control. This module covers:
+
+- ROS 2 communication patterns (Nodes, Topics, Services, Actions)
+- Python control with rclpy
+- Humanoid robot structure with URDF (Unified Robot Description Format)
+
+### Digital Twin Module (Gazebo & Unity)
+Explore digital twin technology for humanoid robots using physics simulation and visual environments. This module covers:
+
+- Physics simulation with Gazebo
+- Visual environments with Unity
+- Sensor simulation for AI training
+
+### AI-Robot Brain (NVIDIA Isaac™)
+Learn advanced perception, navigation, and training techniques for humanoid robots using NVIDIA Isaac technologies. This module covers:
+
+- Isaac Sim for photorealistic simulation and synthetic data generation
+- Isaac ROS and hardware-accelerated Visual SLAM
+- Path planning with Navigation2 (Nav2) for bipedal humanoid navigation
+
+### Vision-Language-Action (VLA) Robotics
+Discover how Large Language Models integrate with robotics to convert human intent into autonomous robot actions. This module covers:
+
+- Voice-to-action pipelines using speech recognition and ROS 2 integration
+- Cognitive planning with LLMs for task decomposition and action sequencing
+- Complete autonomous humanoid systems integrating navigation, perception, and manipulation
 
 ## Getting Started
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Choose a module from the sidebar to begin your robotics education journey. Each module is designed to build your understanding progressively, starting with fundamental concepts and advancing to complex implementations.
 
 ### What you'll need
 
